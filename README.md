@@ -1,5 +1,5 @@
 <p align="center">
-    <img width="200" style="border-radius: 50px;" src="/logo.png"/>
+    <img width="200" src="/logo-vv.png"/>
 </p>
 
 # VanillaNet 🍦
